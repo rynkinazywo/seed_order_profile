@@ -1,0 +1,2310 @@
+[
+    {
+        "price": 43.08,
+        "orders": 1310.0
+    },
+    {
+        "price": 43.09,
+        "orders": 2903.0
+    },
+    {
+        "price": 43.1,
+        "orders": 2164.0
+    },
+    {
+        "price": 43.11,
+        "orders": 718.0
+    },
+    {
+        "price": 43.12,
+        "orders": 505.0
+    },
+    {
+        "price": 43.13,
+        "orders": 2333.0
+    },
+    {
+        "price": 43.14,
+        "orders": 500.0
+    },
+    {
+        "price": 43.15,
+        "orders": 1558.0
+    },
+    {
+        "price": 43.16,
+        "orders": 1500.0
+    },
+    {
+        "price": 43.17,
+        "orders": 500.0
+    },
+    {
+        "price": 43.18,
+        "orders": 2211.0
+    },
+    {
+        "price": 43.19,
+        "orders": 211.0
+    },
+    {
+        "price": 43.2,
+        "orders": 2367.0
+    },
+    {
+        "price": 43.21,
+        "orders": 211.0
+    },
+    {
+        "price": 43.22,
+        "orders": 211.0
+    },
+    {
+        "price": 43.23,
+        "orders": 100.0
+    },
+    {
+        "price": 43.24,
+        "orders": 211.0
+    },
+    {
+        "price": 43.25,
+        "orders": 2205.0
+    },
+    {
+        "price": 43.26,
+        "orders": 10718.0
+    },
+    {
+        "price": 43.27,
+        "orders": 5136.0
+    },
+    {
+        "price": 43.28,
+        "orders": 4686.0
+    },
+    {
+        "price": 43.3,
+        "orders": 1351.0
+    },
+    {
+        "price": 43.31,
+        "orders": 4680.0
+    },
+    {
+        "price": 43.33,
+        "orders": 3200.0
+    },
+    {
+        "price": 43.34,
+        "orders": 2390.0
+    },
+    {
+        "price": 43.35,
+        "orders": 280.0
+    },
+    {
+        "price": 43.36,
+        "orders": 150.0
+    },
+    {
+        "price": 43.38,
+        "orders": 20.0
+    },
+    {
+        "price": 43.4,
+        "orders": 35.0
+    },
+    {
+        "price": 43.42,
+        "orders": 1180.0
+    },
+    {
+        "price": 43.44,
+        "orders": 200.0
+    },
+    {
+        "price": 43.46,
+        "orders": 6999.0
+    },
+    {
+        "price": 43.49,
+        "orders": 2671.0
+    },
+    {
+        "price": 43.5,
+        "orders": 1804.0
+    },
+    {
+        "price": 43.56,
+        "orders": 100.0
+    },
+    {
+        "price": 43.6,
+        "orders": 370.0
+    },
+    {
+        "price": 43.63,
+        "orders": 2320.0
+    },
+    {
+        "price": 43.65,
+        "orders": 1580.0
+    },
+    {
+        "price": 43.67,
+        "orders": 1700.0
+    },
+    {
+        "price": 43.69,
+        "orders": 46.0
+    },
+    {
+        "price": 43.7,
+        "orders": 1430.0
+    },
+    {
+        "price": 43.74,
+        "orders": 648.0
+    },
+    {
+        "price": 43.75,
+        "orders": 1950.0
+    },
+    {
+        "price": 43.77,
+        "orders": 34.0
+    },
+    {
+        "price": 43.79,
+        "orders": 118.0
+    },
+    {
+        "price": 43.8,
+        "orders": 827.0
+    },
+    {
+        "price": 43.82,
+        "orders": 50.0
+    },
+    {
+        "price": 43.85,
+        "orders": 250.0
+    },
+    {
+        "price": 43.87,
+        "orders": 8.0
+    },
+    {
+        "price": 43.88,
+        "orders": 268.0
+    },
+    {
+        "price": 43.89,
+        "orders": 116.0
+    },
+    {
+        "price": 43.9,
+        "orders": 1518.0
+    },
+    {
+        "price": 43.92,
+        "orders": 2.0
+    },
+    {
+        "price": 43.94,
+        "orders": 278.0
+    },
+    {
+        "price": 43.95,
+        "orders": 546.0
+    },
+    {
+        "price": 43.97,
+        "orders": 514.0
+    },
+    {
+        "price": 43.98,
+        "orders": 890.0
+    },
+    {
+        "price": 43.99,
+        "orders": 1158.0
+    },
+    {
+        "price": 44.0,
+        "orders": 4682.0
+    },
+    {
+        "price": 44.04,
+        "orders": 40.0
+    },
+    {
+        "price": 44.06,
+        "orders": 19.0
+    },
+    {
+        "price": 44.07,
+        "orders": 11000.0
+    },
+    {
+        "price": 44.09,
+        "orders": 2.0
+    },
+    {
+        "price": 44.12,
+        "orders": 300.0
+    },
+    {
+        "price": 44.14,
+        "orders": 200.0
+    },
+    {
+        "price": 44.2,
+        "orders": 239.0
+    },
+    {
+        "price": 44.21,
+        "orders": 50.0
+    },
+    {
+        "price": 44.25,
+        "orders": 100.0
+    },
+    {
+        "price": 44.28,
+        "orders": 160.0
+    },
+    {
+        "price": 44.29,
+        "orders": 48.0
+    },
+    {
+        "price": 44.3,
+        "orders": 249.0
+    },
+    {
+        "price": 44.31,
+        "orders": 29.0
+    },
+    {
+        "price": 44.37,
+        "orders": 47.0
+    },
+    {
+        "price": 44.4,
+        "orders": 2126.0
+    },
+    {
+        "price": 44.44,
+        "orders": 1000.0
+    },
+    {
+        "price": 44.46,
+        "orders": 19.0
+    },
+    {
+        "price": 44.47,
+        "orders": 1.0
+    },
+    {
+        "price": 44.48,
+        "orders": 42.0
+    },
+    {
+        "price": 44.49,
+        "orders": 2636.0
+    },
+    {
+        "price": 44.5,
+        "orders": 834.0
+    },
+    {
+        "price": 44.57,
+        "orders": 45.0
+    },
+    {
+        "price": 44.6,
+        "orders": 661.0
+    },
+    {
+        "price": 44.64,
+        "orders": 35.0
+    },
+    {
+        "price": 44.66,
+        "orders": 100.0
+    },
+    {
+        "price": 44.7,
+        "orders": 846.0
+    },
+    {
+        "price": 44.78,
+        "orders": 200.0
+    },
+    {
+        "price": 44.8,
+        "orders": 2556.0
+    },
+    {
+        "price": 44.81,
+        "orders": 500.0
+    },
+    {
+        "price": 44.82,
+        "orders": 200.0
+    },
+    {
+        "price": 44.84,
+        "orders": 276.0
+    },
+    {
+        "price": 44.85,
+        "orders": 65.0
+    },
+    {
+        "price": 44.86,
+        "orders": 45.0
+    },
+    {
+        "price": 44.87,
+        "orders": 25.0
+    },
+    {
+        "price": 44.88,
+        "orders": 133.0
+    },
+    {
+        "price": 44.89,
+        "orders": 100.0
+    },
+    {
+        "price": 44.9,
+        "orders": 2702.0
+    },
+    {
+        "price": 44.92,
+        "orders": 116.0
+    },
+    {
+        "price": 44.93,
+        "orders": 600.0
+    },
+    {
+        "price": 44.95,
+        "orders": 1.0
+    },
+    {
+        "price": 44.96,
+        "orders": 270.0
+    },
+    {
+        "price": 44.97,
+        "orders": 13.0
+    },
+    {
+        "price": 44.99,
+        "orders": 1528.0
+    },
+    {
+        "price": 45.0,
+        "orders": 13238.0
+    },
+    {
+        "price": 45.02,
+        "orders": 30.0
+    },
+    {
+        "price": 45.07,
+        "orders": 320.0
+    },
+    {
+        "price": 45.1,
+        "orders": 234.0
+    },
+    {
+        "price": 45.12,
+        "orders": 359.0
+    },
+    {
+        "price": 45.19,
+        "orders": 120.0
+    },
+    {
+        "price": 45.2,
+        "orders": 993.0
+    },
+    {
+        "price": 45.26,
+        "orders": 50.0
+    },
+    {
+        "price": 45.3,
+        "orders": 321.0
+    },
+    {
+        "price": 45.31,
+        "orders": 3.0
+    },
+    {
+        "price": 45.34,
+        "orders": 23.0
+    },
+    {
+        "price": 45.36,
+        "orders": 190.0
+    },
+    {
+        "price": 45.38,
+        "orders": 80.0
+    },
+    {
+        "price": 45.4,
+        "orders": 284.0
+    },
+    {
+        "price": 45.43,
+        "orders": 21.0
+    },
+    {
+        "price": 45.44,
+        "orders": 245.0
+    },
+    {
+        "price": 45.45,
+        "orders": 85.0
+    },
+    {
+        "price": 45.48,
+        "orders": 83.0
+    },
+    {
+        "price": 45.49,
+        "orders": 227.0
+    },
+    {
+        "price": 45.5,
+        "orders": 470.0
+    },
+    {
+        "price": 45.6,
+        "orders": 351.0
+    },
+    {
+        "price": 45.62,
+        "orders": 66.0
+    },
+    {
+        "price": 45.63,
+        "orders": 100.0
+    },
+    {
+        "price": 45.64,
+        "orders": 1.0
+    },
+    {
+        "price": 45.7,
+        "orders": 670.0
+    },
+    {
+        "price": 45.71,
+        "orders": 201.0
+    },
+    {
+        "price": 45.72,
+        "orders": 28.0
+    },
+    {
+        "price": 45.74,
+        "orders": 8409.0
+    },
+    {
+        "price": 45.8,
+        "orders": 321.0
+    },
+    {
+        "price": 45.85,
+        "orders": 135.0
+    },
+    {
+        "price": 45.87,
+        "orders": 1100.0
+    },
+    {
+        "price": 45.88,
+        "orders": 100.0
+    },
+    {
+        "price": 45.9,
+        "orders": 1748.0
+    },
+    {
+        "price": 45.92,
+        "orders": 200.0
+    },
+    {
+        "price": 45.94,
+        "orders": 430.0
+    },
+    {
+        "price": 45.97,
+        "orders": 50.0
+    },
+    {
+        "price": 45.98,
+        "orders": 102.0
+    },
+    {
+        "price": 46.0,
+        "orders": 30760.0
+    },
+    {
+        "price": 46.02,
+        "orders": 230.0
+    },
+    {
+        "price": 46.07,
+        "orders": 81.0
+    },
+    {
+        "price": 46.08,
+        "orders": 100.0
+    },
+    {
+        "price": 46.1,
+        "orders": 112.0
+    },
+    {
+        "price": 46.17,
+        "orders": 2.0
+    },
+    {
+        "price": 46.2,
+        "orders": 843.0
+    },
+    {
+        "price": 46.21,
+        "orders": 3.0
+    },
+    {
+        "price": 46.24,
+        "orders": 215.0
+    },
+    {
+        "price": 46.28,
+        "orders": 500.0
+    },
+    {
+        "price": 46.29,
+        "orders": 575.0
+    },
+    {
+        "price": 46.3,
+        "orders": 75.0
+    },
+    {
+        "price": 46.31,
+        "orders": 704.0
+    },
+    {
+        "price": 46.38,
+        "orders": 1050.0
+    },
+    {
+        "price": 46.39,
+        "orders": 141.0
+    },
+    {
+        "price": 46.4,
+        "orders": 6373.0
+    },
+    {
+        "price": 46.44,
+        "orders": 53.0
+    },
+    {
+        "price": 46.48,
+        "orders": 100.0
+    },
+    {
+        "price": 46.49,
+        "orders": 10.0
+    },
+    {
+        "price": 46.5,
+        "orders": 2424.0
+    },
+    {
+        "price": 46.51,
+        "orders": 700.0
+    },
+    {
+        "price": 46.55,
+        "orders": 117.0
+    },
+    {
+        "price": 46.56,
+        "orders": 24.0
+    },
+    {
+        "price": 46.6,
+        "orders": 618.0
+    },
+    {
+        "price": 46.62,
+        "orders": 3.0
+    },
+    {
+        "price": 46.66,
+        "orders": 7.0
+    },
+    {
+        "price": 46.7,
+        "orders": 25.0
+    },
+    {
+        "price": 46.71,
+        "orders": 400.0
+    },
+    {
+        "price": 46.75,
+        "orders": 60.0
+    },
+    {
+        "price": 46.78,
+        "orders": 1500.0
+    },
+    {
+        "price": 46.8,
+        "orders": 2.0
+    },
+    {
+        "price": 46.81,
+        "orders": 1.0
+    },
+    {
+        "price": 46.84,
+        "orders": 10.0
+    },
+    {
+        "price": 46.85,
+        "orders": 125.0
+    },
+    {
+        "price": 46.86,
+        "orders": 100.0
+    },
+    {
+        "price": 46.88,
+        "orders": 48.0
+    },
+    {
+        "price": 46.9,
+        "orders": 980.0
+    },
+    {
+        "price": 47.0,
+        "orders": 3755.0
+    },
+    {
+        "price": 47.05,
+        "orders": 40.0
+    },
+    {
+        "price": 47.09,
+        "orders": 500.0
+    },
+    {
+        "price": 47.1,
+        "orders": 110.0
+    },
+    {
+        "price": 47.16,
+        "orders": 11.0
+    },
+    {
+        "price": 47.17,
+        "orders": 79.0
+    },
+    {
+        "price": 47.2,
+        "orders": 1959.0
+    },
+    {
+        "price": 47.21,
+        "orders": 70.0
+    },
+    {
+        "price": 47.26,
+        "orders": 12.0
+    },
+    {
+        "price": 47.3,
+        "orders": 1523.0
+    },
+    {
+        "price": 47.32,
+        "orders": 200.0
+    },
+    {
+        "price": 47.34,
+        "orders": 702.0
+    },
+    {
+        "price": 47.4,
+        "orders": 335.0
+    },
+    {
+        "price": 47.44,
+        "orders": 500.0
+    },
+    {
+        "price": 47.48,
+        "orders": 50.0
+    },
+    {
+        "price": 47.5,
+        "orders": 2031.0
+    },
+    {
+        "price": 47.58,
+        "orders": 50.0
+    },
+    {
+        "price": 47.6,
+        "orders": 1.0
+    },
+    {
+        "price": 47.64,
+        "orders": 175.0
+    },
+    {
+        "price": 47.66,
+        "orders": 1000.0
+    },
+    {
+        "price": 47.67,
+        "orders": 30.0
+    },
+    {
+        "price": 47.7,
+        "orders": 100.0
+    },
+    {
+        "price": 47.74,
+        "orders": 200.0
+    },
+    {
+        "price": 47.75,
+        "orders": 38.0
+    },
+    {
+        "price": 47.76,
+        "orders": 16.0
+    },
+    {
+        "price": 47.8,
+        "orders": 21.0
+    },
+    {
+        "price": 47.82,
+        "orders": 30.0
+    },
+    {
+        "price": 47.86,
+        "orders": 10.0
+    },
+    {
+        "price": 47.87,
+        "orders": 105.0
+    },
+    {
+        "price": 47.88,
+        "orders": 50.0
+    },
+    {
+        "price": 47.89,
+        "orders": 400.0
+    },
+    {
+        "price": 47.9,
+        "orders": 410.0
+    },
+    {
+        "price": 47.94,
+        "orders": 1000.0
+    },
+    {
+        "price": 47.95,
+        "orders": 1000.0
+    },
+    {
+        "price": 47.96,
+        "orders": 9.0
+    },
+    {
+        "price": 47.99,
+        "orders": 39.0
+    },
+    {
+        "price": 48.0,
+        "orders": 17862.0
+    },
+    {
+        "price": 48.01,
+        "orders": 8.0
+    },
+    {
+        "price": 48.05,
+        "orders": 1643.0
+    },
+    {
+        "price": 48.07,
+        "orders": 50.0
+    },
+    {
+        "price": 48.08,
+        "orders": 2.0
+    },
+    {
+        "price": 48.1,
+        "orders": 563.0
+    },
+    {
+        "price": 48.16,
+        "orders": 1000.0
+    },
+    {
+        "price": 48.18,
+        "orders": 48.0
+    },
+    {
+        "price": 48.2,
+        "orders": 77.0
+    },
+    {
+        "price": 48.31,
+        "orders": 3.0
+    },
+    {
+        "price": 48.4,
+        "orders": 3589.0
+    },
+    {
+        "price": 48.44,
+        "orders": 36.0
+    },
+    {
+        "price": 48.48,
+        "orders": 547.0
+    },
+    {
+        "price": 48.5,
+        "orders": 3201.0
+    },
+    {
+        "price": 48.56,
+        "orders": 1850.0
+    },
+    {
+        "price": 48.59,
+        "orders": 60.0
+    },
+    {
+        "price": 48.6,
+        "orders": 136.0
+    },
+    {
+        "price": 48.68,
+        "orders": 16.0
+    },
+    {
+        "price": 48.77,
+        "orders": 144.0
+    },
+    {
+        "price": 48.79,
+        "orders": 4.0
+    },
+    {
+        "price": 48.8,
+        "orders": 2792.0
+    },
+    {
+        "price": 48.86,
+        "orders": 10.0
+    },
+    {
+        "price": 48.9,
+        "orders": 2503.0
+    },
+    {
+        "price": 48.93,
+        "orders": 100.0
+    },
+    {
+        "price": 48.95,
+        "orders": 3.0
+    },
+    {
+        "price": 48.98,
+        "orders": 152.0
+    },
+    {
+        "price": 48.99,
+        "orders": 95.0
+    },
+    {
+        "price": 49.0,
+        "orders": 22747.0
+    },
+    {
+        "price": 49.15,
+        "orders": 103.0
+    },
+    {
+        "price": 49.16,
+        "orders": 1.0
+    },
+    {
+        "price": 49.18,
+        "orders": 100.0
+    },
+    {
+        "price": 49.2,
+        "orders": 700.0
+    },
+    {
+        "price": 49.3,
+        "orders": 1000.0
+    },
+    {
+        "price": 49.38,
+        "orders": 26.0
+    },
+    {
+        "price": 49.4,
+        "orders": 166.0
+    },
+    {
+        "price": 49.44,
+        "orders": 25.0
+    },
+    {
+        "price": 49.5,
+        "orders": 3574.0
+    },
+    {
+        "price": 49.56,
+        "orders": 50.0
+    },
+    {
+        "price": 49.6,
+        "orders": 11.0
+    },
+    {
+        "price": 49.64,
+        "orders": 43.0
+    },
+    {
+        "price": 49.66,
+        "orders": 11.0
+    },
+    {
+        "price": 49.68,
+        "orders": 307.0
+    },
+    {
+        "price": 49.69,
+        "orders": 138.0
+    },
+    {
+        "price": 49.71,
+        "orders": 17.0
+    },
+    {
+        "price": 49.76,
+        "orders": 40.0
+    },
+    {
+        "price": 49.78,
+        "orders": 210.0
+    },
+    {
+        "price": 49.8,
+        "orders": 2936.0
+    },
+    {
+        "price": 49.83,
+        "orders": 23.0
+    },
+    {
+        "price": 49.85,
+        "orders": 67.0
+    },
+    {
+        "price": 49.88,
+        "orders": 220.0
+    },
+    {
+        "price": 49.9,
+        "orders": 3893.0
+    },
+    {
+        "price": 49.92,
+        "orders": 157.0
+    },
+    {
+        "price": 49.93,
+        "orders": 100.0
+    },
+    {
+        "price": 49.94,
+        "orders": 205.0
+    },
+    {
+        "price": 49.95,
+        "orders": 609.0
+    },
+    {
+        "price": 49.97,
+        "orders": 447.0
+    },
+    {
+        "price": 49.99,
+        "orders": 260.0
+    },
+    {
+        "price": 50.0,
+        "orders": 36004.0
+    },
+    {
+        "price": 50.08,
+        "orders": 20.0
+    },
+    {
+        "price": 50.1,
+        "orders": 6500.0
+    },
+    {
+        "price": 50.2,
+        "orders": 197.0
+    },
+    {
+        "price": 50.22,
+        "orders": 176.0
+    },
+    {
+        "price": 50.26,
+        "orders": 4000.0
+    },
+    {
+        "price": 50.3,
+        "orders": 144.0
+    },
+    {
+        "price": 50.4,
+        "orders": 2.0
+    },
+    {
+        "price": 50.5,
+        "orders": 445.0
+    },
+    {
+        "price": 50.54,
+        "orders": 1300.0
+    },
+    {
+        "price": 50.58,
+        "orders": 100.0
+    },
+    {
+        "price": 50.6,
+        "orders": 9.0
+    },
+    {
+        "price": 50.66,
+        "orders": 176.0
+    },
+    {
+        "price": 50.7,
+        "orders": 12.0
+    },
+    {
+        "price": 50.74,
+        "orders": 3333.0
+    },
+    {
+        "price": 50.76,
+        "orders": 3338.0
+    },
+    {
+        "price": 50.78,
+        "orders": 3361.0
+    },
+    {
+        "price": 50.8,
+        "orders": 9.0
+    },
+    {
+        "price": 50.86,
+        "orders": 1.0
+    },
+    {
+        "price": 50.88,
+        "orders": 22.0
+    },
+    {
+        "price": 50.92,
+        "orders": 13.0
+    },
+    {
+        "price": 51.0,
+        "orders": 15528.0
+    },
+    {
+        "price": 51.08,
+        "orders": 100.0
+    },
+    {
+        "price": 51.1,
+        "orders": 10.0
+    },
+    {
+        "price": 51.16,
+        "orders": 25.0
+    },
+    {
+        "price": 51.2,
+        "orders": 1.0
+    },
+    {
+        "price": 51.26,
+        "orders": 250.0
+    },
+    {
+        "price": 51.28,
+        "orders": 880.0
+    },
+    {
+        "price": 51.34,
+        "orders": 100.0
+    },
+    {
+        "price": 51.4,
+        "orders": 1.0
+    },
+    {
+        "price": 51.46,
+        "orders": 350.0
+    },
+    {
+        "price": 51.5,
+        "orders": 112.0
+    },
+    {
+        "price": 51.54,
+        "orders": 500.0
+    },
+    {
+        "price": 51.6,
+        "orders": 1.0
+    },
+    {
+        "price": 51.64,
+        "orders": 18.0
+    },
+    {
+        "price": 51.8,
+        "orders": 46.0
+    },
+    {
+        "price": 51.82,
+        "orders": 100.0
+    },
+    {
+        "price": 51.88,
+        "orders": 118.0
+    },
+    {
+        "price": 51.96,
+        "orders": 100.0
+    },
+    {
+        "price": 51.98,
+        "orders": 3156.0
+    },
+    {
+        "price": 52.0,
+        "orders": 14810.0
+    },
+    {
+        "price": 52.02,
+        "orders": 400.0
+    },
+    {
+        "price": 52.08,
+        "orders": 1950.0
+    },
+    {
+        "price": 52.2,
+        "orders": 6799.0
+    },
+    {
+        "price": 52.3,
+        "orders": 346.0
+    },
+    {
+        "price": 52.34,
+        "orders": 26.0
+    },
+    {
+        "price": 52.4,
+        "orders": 1.0
+    },
+    {
+        "price": 52.46,
+        "orders": 100.0
+    },
+    {
+        "price": 52.5,
+        "orders": 2843.0
+    },
+    {
+        "price": 52.56,
+        "orders": 100.0
+    },
+    {
+        "price": 52.7,
+        "orders": 1.0
+    },
+    {
+        "price": 52.72,
+        "orders": 20.0
+    },
+    {
+        "price": 52.78,
+        "orders": 159.0
+    },
+    {
+        "price": 52.82,
+        "orders": 27.0
+    },
+    {
+        "price": 52.9,
+        "orders": 1255.0
+    },
+    {
+        "price": 52.98,
+        "orders": 100.0
+    },
+    {
+        "price": 53.0,
+        "orders": 7470.0
+    },
+    {
+        "price": 53.02,
+        "orders": 50.0
+    },
+    {
+        "price": 53.06,
+        "orders": 100.0
+    },
+    {
+        "price": 53.08,
+        "orders": 100.0
+    },
+    {
+        "price": 53.16,
+        "orders": 100.0
+    },
+    {
+        "price": 53.18,
+        "orders": 215.0
+    },
+    {
+        "price": 53.2,
+        "orders": 219.0
+    },
+    {
+        "price": 53.24,
+        "orders": 120.0
+    },
+    {
+        "price": 53.28,
+        "orders": 100.0
+    },
+    {
+        "price": 53.3,
+        "orders": 45.0
+    },
+    {
+        "price": 53.34,
+        "orders": 100.0
+    },
+    {
+        "price": 53.36,
+        "orders": 142.0
+    },
+    {
+        "price": 53.38,
+        "orders": 100.0
+    },
+    {
+        "price": 53.4,
+        "orders": 22.0
+    },
+    {
+        "price": 53.42,
+        "orders": 100.0
+    },
+    {
+        "price": 53.48,
+        "orders": 100.0
+    },
+    {
+        "price": 53.5,
+        "orders": 700.0
+    },
+    {
+        "price": 53.54,
+        "orders": 100.0
+    },
+    {
+        "price": 53.58,
+        "orders": 100.0
+    },
+    {
+        "price": 53.64,
+        "orders": 160.0
+    },
+    {
+        "price": 53.68,
+        "orders": 100.0
+    },
+    {
+        "price": 53.74,
+        "orders": 100.0
+    },
+    {
+        "price": 53.76,
+        "orders": 175.0
+    },
+    {
+        "price": 53.78,
+        "orders": 100.0
+    },
+    {
+        "price": 53.8,
+        "orders": 1.0
+    },
+    {
+        "price": 53.86,
+        "orders": 100.0
+    },
+    {
+        "price": 53.88,
+        "orders": 144.0
+    },
+    {
+        "price": 53.9,
+        "orders": 1644.0
+    },
+    {
+        "price": 53.96,
+        "orders": 100.0
+    },
+    {
+        "price": 53.98,
+        "orders": 100.0
+    },
+    {
+        "price": 54.0,
+        "orders": 4032.0
+    },
+    {
+        "price": 54.04,
+        "orders": 100.0
+    },
+    {
+        "price": 54.08,
+        "orders": 100.0
+    },
+    {
+        "price": 54.14,
+        "orders": 100.0
+    },
+    {
+        "price": 54.18,
+        "orders": 119.0
+    },
+    {
+        "price": 54.2,
+        "orders": 250.0
+    },
+    {
+        "price": 54.24,
+        "orders": 100.0
+    },
+    {
+        "price": 54.28,
+        "orders": 100.0
+    },
+    {
+        "price": 54.34,
+        "orders": 100.0
+    },
+    {
+        "price": 54.38,
+        "orders": 110.0
+    },
+    {
+        "price": 54.4,
+        "orders": 32.0
+    },
+    {
+        "price": 54.44,
+        "orders": 100.0
+    },
+    {
+        "price": 54.48,
+        "orders": 100.0
+    },
+    {
+        "price": 54.54,
+        "orders": 100.0
+    },
+    {
+        "price": 54.58,
+        "orders": 100.0
+    },
+    {
+        "price": 54.6,
+        "orders": 82.0
+    },
+    {
+        "price": 54.64,
+        "orders": 100.0
+    },
+    {
+        "price": 54.68,
+        "orders": 100.0
+    },
+    {
+        "price": 54.74,
+        "orders": 100.0
+    },
+    {
+        "price": 54.78,
+        "orders": 100.0
+    },
+    {
+        "price": 54.84,
+        "orders": 100.0
+    },
+    {
+        "price": 54.88,
+        "orders": 100.0
+    },
+    {
+        "price": 54.92,
+        "orders": 32.0
+    },
+    {
+        "price": 54.94,
+        "orders": 100.0
+    },
+    {
+        "price": 54.96,
+        "orders": 20.0
+    },
+    {
+        "price": 54.98,
+        "orders": 100.0
+    },
+    {
+        "price": 55.0,
+        "orders": 39293.0
+    },
+    {
+        "price": 55.04,
+        "orders": 100.0
+    },
+    {
+        "price": 55.08,
+        "orders": 100.0
+    },
+    {
+        "price": 55.14,
+        "orders": 100.0
+    },
+    {
+        "price": 55.18,
+        "orders": 100.0
+    },
+    {
+        "price": 55.24,
+        "orders": 100.0
+    },
+    {
+        "price": 55.28,
+        "orders": 109.0
+    },
+    {
+        "price": 55.3,
+        "orders": 900.0
+    },
+    {
+        "price": 55.34,
+        "orders": 100.0
+    },
+    {
+        "price": 55.38,
+        "orders": 100.0
+    },
+    {
+        "price": 55.44,
+        "orders": 100.0
+    },
+    {
+        "price": 55.48,
+        "orders": 100.0
+    },
+    {
+        "price": 55.5,
+        "orders": 298.0
+    },
+    {
+        "price": 55.54,
+        "orders": 1100.0
+    },
+    {
+        "price": 55.58,
+        "orders": 100.0
+    },
+    {
+        "price": 55.6,
+        "orders": 56.0
+    },
+    {
+        "price": 55.64,
+        "orders": 100.0
+    },
+    {
+        "price": 55.66,
+        "orders": 22.0
+    },
+    {
+        "price": 55.68,
+        "orders": 100.0
+    },
+    {
+        "price": 55.74,
+        "orders": 100.0
+    },
+    {
+        "price": 55.78,
+        "orders": 100.0
+    },
+    {
+        "price": 55.84,
+        "orders": 290.0
+    },
+    {
+        "price": 55.88,
+        "orders": 142.0
+    },
+    {
+        "price": 55.94,
+        "orders": 100.0
+    },
+    {
+        "price": 55.98,
+        "orders": 100.0
+    },
+    {
+        "price": 56.0,
+        "orders": 4859.0
+    },
+    {
+        "price": 56.04,
+        "orders": 100.0
+    },
+    {
+        "price": 56.08,
+        "orders": 100.0
+    },
+    {
+        "price": 56.1,
+        "orders": 276.0
+    },
+    {
+        "price": 56.14,
+        "orders": 100.0
+    },
+    {
+        "price": 56.18,
+        "orders": 100.0
+    },
+    {
+        "price": 56.24,
+        "orders": 100.0
+    },
+    {
+        "price": 56.28,
+        "orders": 100.0
+    },
+    {
+        "price": 56.34,
+        "orders": 100.0
+    },
+    {
+        "price": 56.38,
+        "orders": 100.0
+    },
+    {
+        "price": 56.44,
+        "orders": 100.0
+    },
+    {
+        "price": 56.48,
+        "orders": 100.0
+    },
+    {
+        "price": 56.54,
+        "orders": 100.0
+    },
+    {
+        "price": 56.58,
+        "orders": 100.0
+    },
+    {
+        "price": 56.6,
+        "orders": 1000.0
+    },
+    {
+        "price": 56.62,
+        "orders": 200.0
+    },
+    {
+        "price": 56.64,
+        "orders": 100.0
+    },
+    {
+        "price": 56.68,
+        "orders": 100.0
+    },
+    {
+        "price": 56.74,
+        "orders": 100.0
+    },
+    {
+        "price": 56.78,
+        "orders": 100.0
+    },
+    {
+        "price": 56.84,
+        "orders": 100.0
+    },
+    {
+        "price": 56.88,
+        "orders": 100.0
+    },
+    {
+        "price": 56.9,
+        "orders": 450.0
+    },
+    {
+        "price": 56.94,
+        "orders": 119.0
+    },
+    {
+        "price": 56.98,
+        "orders": 100.0
+    },
+    {
+        "price": 57.0,
+        "orders": 383.0
+    },
+    {
+        "price": 57.04,
+        "orders": 100.0
+    },
+    {
+        "price": 57.08,
+        "orders": 100.0
+    },
+    {
+        "price": 57.14,
+        "orders": 100.0
+    },
+    {
+        "price": 57.18,
+        "orders": 100.0
+    },
+    {
+        "price": 57.2,
+        "orders": 255.0
+    },
+    {
+        "price": 57.24,
+        "orders": 100.0
+    },
+    {
+        "price": 57.28,
+        "orders": 100.0
+    },
+    {
+        "price": 57.34,
+        "orders": 100.0
+    },
+    {
+        "price": 57.38,
+        "orders": 100.0
+    },
+    {
+        "price": 57.44,
+        "orders": 100.0
+    },
+    {
+        "price": 57.48,
+        "orders": 100.0
+    },
+    {
+        "price": 57.54,
+        "orders": 100.0
+    },
+    {
+        "price": 57.58,
+        "orders": 100.0
+    },
+    {
+        "price": 57.64,
+        "orders": 100.0
+    },
+    {
+        "price": 57.66,
+        "orders": 40.0
+    },
+    {
+        "price": 57.68,
+        "orders": 100.0
+    },
+    {
+        "price": 57.74,
+        "orders": 100.0
+    },
+    {
+        "price": 57.78,
+        "orders": 100.0
+    },
+    {
+        "price": 57.84,
+        "orders": 100.0
+    },
+    {
+        "price": 57.88,
+        "orders": 100.0
+    },
+    {
+        "price": 57.9,
+        "orders": 100.0
+    },
+    {
+        "price": 57.94,
+        "orders": 100.0
+    },
+    {
+        "price": 57.98,
+        "orders": 100.0
+    },
+    {
+        "price": 58.0,
+        "orders": 1145.0
+    },
+    {
+        "price": 58.04,
+        "orders": 100.0
+    },
+    {
+        "price": 58.08,
+        "orders": 100.0
+    },
+    {
+        "price": 58.14,
+        "orders": 100.0
+    },
+    {
+        "price": 58.18,
+        "orders": 100.0
+    },
+    {
+        "price": 58.24,
+        "orders": 100.0
+    },
+    {
+        "price": 58.28,
+        "orders": 100.0
+    },
+    {
+        "price": 58.34,
+        "orders": 100.0
+    },
+    {
+        "price": 58.38,
+        "orders": 100.0
+    },
+    {
+        "price": 58.44,
+        "orders": 100.0
+    },
+    {
+        "price": 58.48,
+        "orders": 100.0
+    },
+    {
+        "price": 58.5,
+        "orders": 1000.0
+    },
+    {
+        "price": 58.54,
+        "orders": 100.0
+    },
+    {
+        "price": 58.58,
+        "orders": 200.0
+    },
+    {
+        "price": 58.64,
+        "orders": 100.0
+    },
+    {
+        "price": 58.68,
+        "orders": 100.0
+    },
+    {
+        "price": 58.74,
+        "orders": 259.0
+    },
+    {
+        "price": 58.78,
+        "orders": 100.0
+    },
+    {
+        "price": 58.8,
+        "orders": 5.0
+    },
+    {
+        "price": 58.84,
+        "orders": 100.0
+    },
+    {
+        "price": 58.88,
+        "orders": 100.0
+    },
+    {
+        "price": 58.94,
+        "orders": 338.0
+    },
+    {
+        "price": 58.98,
+        "orders": 100.0
+    },
+    {
+        "price": 59.0,
+        "orders": 2200.0
+    },
+    {
+        "price": 59.04,
+        "orders": 100.0
+    },
+    {
+        "price": 59.08,
+        "orders": 100.0
+    },
+    {
+        "price": 59.14,
+        "orders": 100.0
+    },
+    {
+        "price": 59.18,
+        "orders": 100.0
+    },
+    {
+        "price": 59.24,
+        "orders": 100.0
+    },
+    {
+        "price": 59.26,
+        "orders": 40.0
+    },
+    {
+        "price": 59.28,
+        "orders": 100.0
+    },
+    {
+        "price": 59.34,
+        "orders": 100.0
+    },
+    {
+        "price": 59.38,
+        "orders": 100.0
+    },
+    {
+        "price": 59.44,
+        "orders": 100.0
+    },
+    {
+        "price": 59.48,
+        "orders": 100.0
+    },
+    {
+        "price": 59.5,
+        "orders": 1065.0
+    },
+    {
+        "price": 59.54,
+        "orders": 100.0
+    },
+    {
+        "price": 59.58,
+        "orders": 100.0
+    },
+    {
+        "price": 59.6,
+        "orders": 2600.0
+    },
+    {
+        "price": 59.64,
+        "orders": 100.0
+    },
+    {
+        "price": 59.68,
+        "orders": 100.0
+    },
+    {
+        "price": 59.74,
+        "orders": 100.0
+    },
+    {
+        "price": 59.78,
+        "orders": 100.0
+    },
+    {
+        "price": 59.84,
+        "orders": 100.0
+    },
+    {
+        "price": 59.88,
+        "orders": 100.0
+    },
+    {
+        "price": 59.9,
+        "orders": 18060.0
+    },
+    {
+        "price": 59.92,
+        "orders": 4.0
+    },
+    {
+        "price": 59.94,
+        "orders": 100.0
+    },
+    {
+        "price": 59.98,
+        "orders": 100.0
+    },
+    {
+        "price": 60.0,
+        "orders": 8206.0
+    },
+    {
+        "price": 60.04,
+        "orders": 100.0
+    },
+    {
+        "price": 60.08,
+        "orders": 100.0
+    },
+    {
+        "price": 60.14,
+        "orders": 118.0
+    },
+    {
+        "price": 60.18,
+        "orders": 100.0
+    },
+    {
+        "price": 60.24,
+        "orders": 100.0
+    },
+    {
+        "price": 60.28,
+        "orders": 100.0
+    },
+    {
+        "price": 60.34,
+        "orders": 100.0
+    },
+    {
+        "price": 60.38,
+        "orders": 100.0
+    },
+    {
+        "price": 60.44,
+        "orders": 100.0
+    },
+    {
+        "price": 60.48,
+        "orders": 100.0
+    },
+    {
+        "price": 60.54,
+        "orders": 100.0
+    },
+    {
+        "price": 60.58,
+        "orders": 100.0
+    },
+    {
+        "price": 60.64,
+        "orders": 100.0
+    },
+    {
+        "price": 60.68,
+        "orders": 100.0
+    },
+    {
+        "price": 60.74,
+        "orders": 100.0
+    },
+    {
+        "price": 60.78,
+        "orders": 100.0
+    },
+    {
+        "price": 60.84,
+        "orders": 100.0
+    },
+    {
+        "price": 60.88,
+        "orders": 100.0
+    },
+    {
+        "price": 60.94,
+        "orders": 100.0
+    },
+    {
+        "price": 60.98,
+        "orders": 100.0
+    },
+    {
+        "price": 61.0,
+        "orders": 513.0
+    },
+    {
+        "price": 61.44,
+        "orders": 100.0
+    },
+    {
+        "price": 61.48,
+        "orders": 100.0
+    },
+    {
+        "price": 61.54,
+        "orders": 100.0
+    },
+    {
+        "price": 61.58,
+        "orders": 100.0
+    },
+    {
+        "price": 61.64,
+        "orders": 100.0
+    },
+    {
+        "price": 61.68,
+        "orders": 100.0
+    },
+    {
+        "price": 61.74,
+        "orders": 100.0
+    },
+    {
+        "price": 61.78,
+        "orders": 100.0
+    },
+    {
+        "price": 62.0,
+        "orders": 2385.0
+    },
+    {
+        "price": 62.06,
+        "orders": 80.0
+    },
+    {
+        "price": 62.58,
+        "orders": 150.0
+    },
+    {
+        "price": 62.94,
+        "orders": 10000.0
+    },
+    {
+        "price": 63.0,
+        "orders": 2387.0
+    },
+    {
+        "price": 63.78,
+        "orders": 20.0
+    },
+    {
+        "price": 64.0,
+        "orders": 142.0
+    },
+    {
+        "price": 65.0,
+        "orders": 327.0
+    },
+    {
+        "price": 66.0,
+        "orders": 124.0
+    },
+    {
+        "price": 66.5,
+        "orders": 110.0
+    },
+    {
+        "price": 66.66,
+        "orders": 75.0
+    },
+    {
+        "price": 67.0,
+        "orders": 70.0
+    },
+    {
+        "price": 68.0,
+        "orders": 19.0
+    },
+    {
+        "price": 68.9,
+        "orders": 157.0
+    },
+    {
+        "price": 69.0,
+        "orders": 20.0
+    },
+    {
+        "price": 69.96,
+        "orders": 280.0
+    },
+    {
+        "price": 70.0,
+        "orders": 3982.0
+    },
+    {
+        "price": 71.44,
+        "orders": 116.0
+    },
+    {
+        "price": 72.94,
+        "orders": 10000.0
+    },
+    {
+        "price": 73.66,
+        "orders": 18.0
+    },
+    {
+        "price": 74.5,
+        "orders": 1756.0
+    },
+    {
+        "price": 75.0,
+        "orders": 344.0
+    },
+    {
+        "price": 77.0,
+        "orders": 46.0
+    },
+    {
+        "price": 78.78,
+        "orders": 270.0
+    },
+    {
+        "price": 79.94,
+        "orders": 2200.0
+    },
+    {
+        "price": 80.0,
+        "orders": 5031.0
+    },
+    {
+        "price": 81.0,
+        "orders": 2200.0
+    },
+    {
+        "price": 83.54,
+        "orders": 95.0
+    },
+    {
+        "price": 90.0,
+        "orders": 697.0
+    },
+    {
+        "price": 92.0,
+        "orders": 779.0
+    },
+    {
+        "price": 93.6,
+        "orders": 191.0
+    },
+    {
+        "price": 95.0,
+        "orders": 1766.0
+    },
+    {
+        "price": 97.0,
+        "orders": 6975.0
+    },
+    {
+        "price": 98.2,
+        "orders": 10.0
+    },
+    {
+        "price": 99.0,
+        "orders": 2557.0
+    },
+    {
+        "price": 100.0,
+        "orders": 8333.0
+    },
+    {
+        "price": 100.05,
+        "orders": 112.0
+    },
+    {
+        "price": 101.0,
+        "orders": 250.0
+    },
+    {
+        "price": 111.0,
+        "orders": 100.0
+    },
+    {
+        "price": 141.25,
+        "orders": 117.0
+    },
+    {
+        "price": 200.0,
+        "orders": 600.0
+    },
+    {
+        "price": 240.0,
+        "orders": 950.0
+    },
+    {
+        "price": 777.0,
+        "orders": 28.0
+    }
+]
